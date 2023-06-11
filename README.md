@@ -12,14 +12,14 @@
 
 ### 팀 구성
 - 인원 : 4명
-- 주요 업무 : 
+- 주요 업무 : 프론트 UI 디자인, 웹 퍼블리싱(HTML, CSS)
 
 ## 프로젝트 기간
 - 2023-03-23 ~ 2023-04-04
 
 ## 링크
 - 사이트 : http://34.64.113.137:8080/
-- PDF : 
+- PDF : [Lastcarnival](/pdf/Last%20Carnival.pdf)
 - 시연 영상 : https://www.youtube.com/watch?v=4hcJi-qpkdU
 
 ## 개발 환경
